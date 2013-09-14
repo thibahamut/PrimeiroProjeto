@@ -1,8 +1,25 @@
 Thiago2
 
-
 nova
 
-EITACHAS
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+EITACHAS 555
 
+demais =D
+
+foi nao !?
+=======
 demais
+>>>>>>> 1c3fa7326fcb78d87204dea89cdaa394be82eda8
+=======
+demais
+>>>>>>> 1c3fa7326fcb78d87204dea89cdaa394be82eda8
+=======
+demais
+>>>>>>> 1c3fa7326fcb78d87204dea89cdaa394be82eda8
+=======
+demais
+>>>>>>> 1c3fa7326fcb78d87204dea89cdaa394be82eda8
